@@ -1,5 +1,5 @@
 # fullstack-be
-1.Solve Problem อยู่ใน README.md ใน floder fullstack-be
+1.Solve Problem อยู่ใน README.md ใน floder SolveProblem
 
 how to run api
 -go root project 
@@ -7,9 +7,6 @@ how to run api
 -go get gorm.io/driver/postgres
 -go get gorm.io/gorm
 -go run main.go
-
-
-
 
 collection postman อยู่ใรโปรเจ็ค 
 paiduay-be.postman_collection
