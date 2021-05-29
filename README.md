@@ -5,7 +5,11 @@ how to run api
 -go root project 
 -go get github.com/gofiber/fiber/v2 v2.10.0
 -go get gorm.io/driver/postgres
--gp get gorm.io/gorm
+-go get gorm.io/gorm
+-go run main.go
+
+
+
 
 collection postman อยู่ใรโปรเจ็ค 
 paiduay-be.postman_collection
