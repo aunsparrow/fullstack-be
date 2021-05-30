@@ -11,5 +11,7 @@ how to run api
 collection postman อยู่ใรโปรเจ็ค 
 paiduay-be.postman_collection
 
+รันคำสั่งนี้ ใน postgrestsql เพื่อติดตั้ง function uuid
+CREATE EXTENSION "uuid-ossp";
 
 
